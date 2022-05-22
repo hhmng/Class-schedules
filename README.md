@@ -1,5 +1,6 @@
 #  &#128209; Class-schedules
 ### Расписание занятий &#127991;
+![class](https://user-images.githubusercontent.com/102478524/169714702-6a3acbf4-e275-4193-8085-6c23dd0ba0c0.gif)
 <p>Class_schedules  &mdash; расписание на всю неделю; 
 </br> ( &#128209; ) переход на for_days. </p>
 <p>for_days &mdash; расписание по дням недели, при нажатии на день недели переход на расписание выбранного дня;
